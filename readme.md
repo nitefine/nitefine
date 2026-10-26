@@ -66,8 +66,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/nitefine/nitefine/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/nitefine/nitefine/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=nitefine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=nitefine&radius=16&theme=react&area=true&order=5"  />
 </div>
 
 ###
